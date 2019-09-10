@@ -3,6 +3,8 @@ Script zum auslesen der Fahrerkarte von DigitalenTachographen
 
 
 Copyright 2009 / 2014 Stefan Manteuffel linux@sm-recycling.de
+Die Software habe ich 2009 geschrieben, läuft aber bei mir unter Opensuse Tumbleweed (2019) noch immer.
+
 
 pyscard wir benötigt http://sourceforge.net/projects/pyscard/
 
@@ -58,6 +60,5 @@ Vieleicht hat ja mal jemand lust die beiden Programme zusammenzu bauen.
 
 Die Lesefunktion hab ich im Code Dokumentiert.
 
-Die Software habe ich 2009 geschrieben, läufter bei mir unter Opensuse Tumbleweed (2019) noch immer.
 viel Spass
 Stefan

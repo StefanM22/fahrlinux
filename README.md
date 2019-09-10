@@ -58,5 +58,6 @@ Vieleicht hat ja mal jemand lust die beiden Programme zusammenzu bauen.
 
 Die Lesefunktion hab ich im Code Dokumentiert.
 
+Die Software habe ich 2009 geschrieben, läufter bei mir unter Opensuse Tumbleweed (2019) noch immer.
 viel Spass
 Stefan
